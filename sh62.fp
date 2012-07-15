@@ -26,3 +26,10 @@ x = 3.99302
 y = 2.2208
 course = 0
 
+[missing0]
+pointID = 1
+time = Sun Jul 15 16:29:37 2012
+x = 2.32152
+y = 1.29547
+course = 0
+
