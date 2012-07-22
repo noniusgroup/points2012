@@ -33,3 +33,10 @@ x = -2.87668e+006
 y = 3.309e+006
 course = 0
 
+[missing5]
+pointID = 0
+time = Sun Jul 22 19:43:40 2012
+x = -2.9008e+006
+y = 3.30963e+006
+course = 0
+
