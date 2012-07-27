@@ -40,3 +40,10 @@ x = -202.365
 y = -24.7249
 course = 0
 
+[missing6]
+pointID = 0
+time = Fri Jul 27 17:34:34 2012
+x = -202.179
+y = -20.8385
+course = 0
+
