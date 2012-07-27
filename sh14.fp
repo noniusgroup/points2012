@@ -12,3 +12,31 @@ x = -202.272
 y = -24.7249
 course = 0
 
+[missing2]
+pointID = 0
+time = Fri Jul 27 15:45:22 2012
+x = -202.365
+y = -24.7249
+course = 0
+
+[missing3]
+pointID = 0
+time = Fri Jul 27 15:45:22 2012
+x = -202.365
+y = -24.7249
+course = 0
+
+[missing4]
+pointID = 0
+time = Fri Jul 27 15:45:23 2012
+x = -202.365
+y = -24.7249
+course = 0
+
+[missing5]
+pointID = 0
+time = Fri Jul 27 15:45:23 2012
+x = -202.365
+y = -24.7249
+course = 0
+
