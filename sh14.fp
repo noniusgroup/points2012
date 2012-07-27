@@ -5,3 +5,10 @@ x = 227.01
 y = -147.239
 course = 0
 
+[missing1]
+pointID = 0
+time = Fri Jul 27 15:45:20 2012
+x = -202.272
+y = -24.7249
+course = 0
+
