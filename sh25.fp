@@ -131,3 +131,10 @@ x = -348.895
 y = -94.3099
 course = 0
 
+[missing19]
+pointID = 0
+time = Mon Jul 30 04:19:40 2012
+x = -251.673
+y = 67.6233
+course = 0
+
