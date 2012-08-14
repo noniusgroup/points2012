@@ -243,3 +243,10 @@ x = -329.952
 y = -126.326
 course = 0
 
+[missing35]
+pointID = 0
+time = Tue Aug 14 11:37:34 2012
+x = -357.716
+y = -129.472
+course = 0
+
